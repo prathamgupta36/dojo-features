@@ -1,0 +1,6 @@
+id: dojo-features
+name: Dojo Features
+type: private
+
+modules:
+  - id: testing
