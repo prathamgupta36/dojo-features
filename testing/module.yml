@@ -4,3 +4,6 @@ name: Testing
 challenges:
   - id: testing
     name: Testing
+  - id: testone
+    name: testone
+    custom_flag: c59b2c8c1811ee54e0515a428f4f067f77a544af2d827bfd65f48da01a3cb698
